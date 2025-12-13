@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/smith_chart.png" alt="Smith Chart" width="420">
+</p>
+
+<h3 align="center">
+    RF & Microwave Engineering Utilities
+</h3>
+
 # RF_code_public
 
 📡 **RF & Microwave Engineering Utilities (MATLAB + Python)**
